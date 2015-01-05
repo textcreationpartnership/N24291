@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:032116_0000_0FF1387D898ACF60"/>
-            <pb facs="tcp:032116_0001_0FF1388048E1E530"/>
+            <pb facs="unknown:032116_0000_0FF1387D898ACF60"/>
+            <pb facs="unknown:032116_0001_0FF1388048E1E530"/>
             <p>THE GHOST OF John Young The HOMICIDE, Who was Executed the 17th of Auguſt laſt, For the MURDER of Robert Barwick, a Sherif's Officer. The following MONODY is written with a View of reſcuing his Memory from OBLOQUY, and ſhewing how inconſiſtent ſanguinary Laws are, in a Country which boaſts of her Freedom and Happineſs. By Mrs. FAUGERES.</p>
             <p>[PRICE <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
@@ -127,7 +127,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:032116_0002_0FF138841B3E4610"/>
+            <pb facs="unknown:032116_0002_0FF138841B3E4610"/>
             <head>The Ghoſt of John Young, &amp;c.</head>
             <lg>
                <l>THE glooms of Night had veil'd days gaudy beam,</l>
@@ -160,7 +160,7 @@
                <l>"And ſhut thine eyes upon a Strangers cauſe.</l>
             </lg>
             <lg>
-               <pb n="3" facs="tcp:032116_0003_0FF13818D9881A30"/>
+               <pb n="3" facs="unknown:032116_0003_0FF13818D9881A30"/>
                <l>"<hi>I,</hi> yes <hi>I,</hi> made a Fellow Mortal bleed,</l>
                <l>"With all his powers and faculties awake;</l>
                <l>"But in a <hi>Frantic</hi> hour I did the deed,</l>
@@ -199,7 +199,7 @@
                <l>"Or to Fates awful Mandate be reſigned.</l>
             </lg>
             <lg>
-               <pb n="4" facs="tcp:032116_0004_0FF13887ACE07AC8"/>
+               <pb n="4" facs="unknown:032116_0004_0FF13887ACE07AC8"/>
                <l>"And Oh, it is a <hi>Callous Heart</hi> indeed,</l>
                <l>"That to the <hi>fainting</hi> criminal denies,</l>
                <l>"<hi>One ſmall reſtorative</hi>
@@ -225,7 +225,7 @@
                <l>"No greiving Friend it (ſternly ſeemed to ſay,)</l>
                <l>"Shall mark thy Tomb and whiſper "here he lies,"</l>
                <l>
-                  <pb n="5" facs="tcp:032116_0005_0FF138896B5ACCF8"/>"No tear<note n="**" place="bottom">It was reported the Free-Maſons were to have had his Body decently inter'd.</note> fraternal ſhall bedew the <gap reason="illegible: indecipherable" extent="1 word">
+                  <pb n="5" facs="unknown:032116_0005_0FF138896B5ACCF8"/>"No tear<note n="**" place="bottom">It was reported the Free-Maſons were to have had his Body decently inter'd.</note> fraternal ſhall bedew the <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
                   <g ref="char:punc">▪</g>
@@ -260,7 +260,7 @@
             </lg>
             <lg>
                <pb n="6"
-                   facs="tcp:032116_0006_0FF1381A8C5A0C60"
+                   facs="unknown:032116_0006_0FF1381A8C5A0C60"
                    rendition="simple:additions"/>
                <l>"If ſo, why might not the <hi>Offender</hi> be</l>
                <l>"Within ſome <hi>Priſon's</hi> lonely walls immur'd,</l>
